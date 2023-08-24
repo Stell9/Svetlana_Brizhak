@@ -1,9 +1,4 @@
-<h3> Hi, I’m Svetlana &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/svetlana-brizhak/)"> <img src="">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX-pMe7xE&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX-pMe7xE&#x2F;watch?utm_content=DAFX-pMe7xE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Жить в цифровую эпоху</a> автор: Светлана Николаевна Брижак"/>
+<h3> Hi, I’m Svetlana &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/svetlana-brizhak/)">
   </a> 
 <h4>I am a QA Engineer </h4>
 
