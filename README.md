@@ -2,7 +2,7 @@
   </a> 
 <h4>I am a Software QA Engineer with experience in QA Automation and Manual Testing since 2016</h4>
  
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFX-pMe7xE&#x2F;watch?utm_content=DAFX-pMe7xE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+<img src="https://www.canva.com/design/DAFX-pMe7xE/watch?embed"
 
 <h5 align="center"> Tools and languages
 </div>
