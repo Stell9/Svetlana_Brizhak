@@ -1,4 +1,4 @@
-<h3> Hi, I’m Svetlana &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="[https://www.linkedin.com/feed/](https://www.linkedin.com/in/svetlana-brizhak/)"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<h3> Hi, I’m Svetlana 
   </a> 
 <h4>I am a Software QA Engineer with experience in QA Automation and Manual Testing since 2016</h4>
  
